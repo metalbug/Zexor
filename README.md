@@ -1,2 +1,2 @@
 # Zexor
-NEW File Explorer
+a new explorer
