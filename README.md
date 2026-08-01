@@ -3,6 +3,8 @@
 <img width="1195" height="698" alt="2026-8-1-9-21-8" src="https://github.com/user-attachments/assets/2f37ebeb-7e6b-48d3-b55e-3811224ef131" />
 
 > **The next-generation visual file manager featuring instant previews and the proprietary `.zex` container format.**
+> 
+> **(Run the compressed file directly)**
 
 ## Key Features
 
@@ -14,7 +16,7 @@
 
 https://github.com/user-attachments/assets/91721074-86b8-4823-b429-81425a6cd1f8
 
-> **集成即时预览与独创 `.zex` 格式的下一代可视化文件管理器。**
+> **集成即时预览与独创 `.zex` 格式的下一代可视化文件管理器。（压缩包直接运行）**
 
 ## 核心特性
 
